@@ -1,7 +1,7 @@
 # JS
 University class
 
-Modification is also possible.
+Modification is possible.
 
 
 This is a normal paragraph:
